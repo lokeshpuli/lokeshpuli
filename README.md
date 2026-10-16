@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Ink&size=30&pause=1000&color=2DFFF0&center=true&vCenter=true&random=true&width=435&lines= Hi there 👋!+I+am+PULI+LOKESH." alt="Typing SVG" /></a>
 <!--
 **lokeshpuli/lokeshpuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
